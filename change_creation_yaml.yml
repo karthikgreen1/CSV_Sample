@@ -13,8 +13,8 @@
         short_description: 'RM team - Freeze period 01/15 ends - Approval'
         start_date: "{{item.Release_date}}"
         type: Normal
-      instance: dev50141
-      password: Welsnow321#
+      instance: dev57354
+      password: Ctss-2013
       state: present
       table: change_request
       username: admin
